@@ -17,3 +17,10 @@
 ## 3. 담당 역할
 - 정규표현식과 딕셔너리를 활용하여 비정형 데이터 전처리
 - 소주제(해파리) EDA 진행
+  
+  <img src="visualizations/total_jellyfish.png" width="70%">
+  <div style="display: flex;">
+    <img src="visualizations/strong_jellyfish.png" alt="Strong Jellyfish" style="width: 40%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="visualizations/weak_jellyfish.png" alt="Weak Jellyfish" style="width: 40%;">
+  </div>
+  
