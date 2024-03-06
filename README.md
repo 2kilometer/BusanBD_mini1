@@ -16,14 +16,12 @@
 
 ## 3. 담당 역할
 - 정규표현식과 딕셔너리를 활용하여 문서형 비정형 데이터 전처리
-  <br> [🔗](files/해파리_데이터_전처리.ipynb)
-  <br>
+  [🔗](files/해파리_데이터_전처리.ipynb)
 
-- 해파리 데이터 EDA 진행
+- 해파리 데이터 EDA 진행 <br>
   <img src="visualizations/total_jellyfish.png" width="70%">
   - 해파리 모니터링을 6월~9월에만 진행하여 12월\~5월 데이터는 부재
-  - 해수욕장 개장 시기와 유사하기에 해수욕장 안전사고 예방 자료로 활용 가능
-    <br>
+  - 해수욕장 개장 시기와 유사하기에 해수욕장 안전사고 예방 자료로 활용 가능<br><br>
   <div style="display: flex;">
     <img src="visualizations/strong_jellyfish.png" alt="Strong Jellyfish" style="width: 40%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="visualizations/weak_jellyfish.png" alt="Weak Jellyfish" style="width: 40%;">
@@ -34,6 +32,6 @@
 
 <br>
   
-### 4. 교훈
+## 4. 교훈
 - 데이터 활용하기에 앞서, 어떤 데이터를 수집하고 어떻게 사용할지에 대한 충분한 상호논의가 필요
 - 필요 데이터를 추출하기 위해 딕셔너리, 정규표현식을 활용하면 효율적임
