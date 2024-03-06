@@ -15,7 +15,7 @@
 <br>
 
 ## 3. 담당 역할
-- 정규표현식과 딕셔너리를 활용하여 비정형 데이터 전처리
+- 정규표현식과 딕셔너리를 활용하여 비정형 데이터 전처리 [🔗](files/해파리_데이터_전처리.ipynb)
 - 소주제(해파리) EDA 진행
   
   <img src="visualizations/total_jellyfish.png" width="70%">
